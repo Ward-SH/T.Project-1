@@ -1,0 +1,11 @@
+- no framework
+- vanilla javaScript
+- many plugins
+- jquery for plugins
+- UI/UX sketches
+- mind mapping
+- my vs code extensions
+- no sass
+- no pugjs
+
+headroom .js library
